@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Front End Engineer'
-company: 'PT. Cakra Radha Mustika (Kalbe Nutritionals)'
+company: 'Kalbe Nutritionals'
 location: 'Remote'
 range: 'August 2023 - Present'
 url: 'https://cakraradhamustika.com/'
